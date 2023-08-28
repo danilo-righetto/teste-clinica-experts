@@ -11,7 +11,7 @@
 
 ## Introduction/Introdução
 
-O projeto se baseia-se no teste `Laravel + Vue` da [Clinica Consig](https://clinicaexperts.com.br/) onde **Soluções integradas que automatizam a sua clínica de estética**.
+O projeto se baseia-se no teste `Laravel + Vue` da [Clinica Consig](https://clinicaexperts.com.br/): **Soluções integradas que automatizam a sua clínica de estética**.
 
 ## Installation/Instalação
 
